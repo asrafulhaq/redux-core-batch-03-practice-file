@@ -1,10 +1,10 @@
 import "./App.css";
-import Todo from "./components/Todo";
+import Student from "./components/Student";
 
 function App() {
   return (
     <>
-      <Todo />
+      <Student />
     </>
   );
 }

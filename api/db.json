@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": "4",
+      "name": "Goutam Roy Kumar",
+      "email": "goutam@gmail.com",
+      "roll": "04",
+      "photo": "https://powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-01.png"
+    },
+    {
+      "id": "3ab9",
+      "name": "Ripon Khan",
+      "roll": "332211",
+      "email": "r@gmail.com",
+      "photo": "https://unitedthemes.com/wp-content/uploads/2018/09/team1.jpg"
+    },
+    {
+      "id": "9289",
+      "name": "Uttam Vaiya",
+      "roll": "40",
+      "email": "apu@gmail.com",
+      "photo": "https://powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-13.png"
+    }
+  ]
+}
